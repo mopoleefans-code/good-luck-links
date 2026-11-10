@@ -3,3 +3,11 @@ goodluck.db
 .env
 __pycache__/
 .venv/
+firebase-service-account.json
+*.db*
+*.backup
+*.safe-backup
+app.py.*
+app-backup.py
+app-before-image-fix.py
+app.p
